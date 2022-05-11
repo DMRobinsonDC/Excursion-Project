@@ -6,8 +6,47 @@ html {
 }
 
 .header {
+    margin-top: 2rem;
     font-size: 3.125rem;
     color: white;
     text-align: center;
 }
 
+.link {
+    margin-top: 2rem;
+    color: aquamarine;
+    text-align: center;
+}
+
+.video {
+    margin-top: 1rem;
+}
+
+.white-text {
+    margin-top: 2rem;
+    font-size: 2.625rem;
+    color: white;
+    font-weight: 300;
+}
+
+.interests {
+    margin-top: 2rem;
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+.camp {
+    margin-top: 1rem;
+}
+
+.small-phone {
+    margin-top: 2rem;
+}
+
+.copyright {
+    margin-top: 1rem;
+    color: gray;
+    text-align: right;
+    font-size: 1.3125rem;
+    margin-bottom: 1.5rem;
+}
